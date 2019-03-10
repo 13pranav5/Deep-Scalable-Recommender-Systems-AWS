@@ -1,3 +1,5 @@
+# Trends Marketplace Presentation to industry experts at Carlson School of Management on Big Data Technologies.
+
 # Deep Scalable Recommender Systems AWS
 Our goal is to prototype deep scalable recommender systems on AWS.
 
